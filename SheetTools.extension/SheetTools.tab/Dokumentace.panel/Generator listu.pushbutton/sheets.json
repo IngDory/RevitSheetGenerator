@@ -1,0 +1,48 @@
+{
+    "sets": {
+        "Stavební část – ukázková sada": [
+            {
+                "number": "D.1.1.01",
+                "name": "Půdorys 1. NP"
+            },
+            {
+                "number": "D.1.1.02",
+                "name": "Půdorys 2. NP"
+            },
+            {
+                "number": "D.1.1.03",
+                "name": "Půdorys střechy"
+            },
+            {
+                "number": "D.1.1.04",
+                "name": "Řez A–A"
+            },
+            {
+                "number": "D.1.1.05",
+                "name": "Řez B–B"
+            },
+            {
+                "number": "D.1.1.06",
+                "name": "Pohled severní"
+            },
+            {
+                "number": "D.1.1.07",
+                "name": "Pohled jižní"
+            },
+            {
+                "number": "D.1.1.08",
+                "name": "Pohled východní"
+            },
+            {
+                "number": "D.1.1.09",
+                "name": "Pohled západní"
+            }
+        ],
+        "Testovací sada": [
+            {
+                "number": "TEST-001",
+                "name": "Testovací výkres"
+            }
+        ]
+    }
+}
